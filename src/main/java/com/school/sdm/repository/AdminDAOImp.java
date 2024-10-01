@@ -7,8 +7,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.omg.PortableInterceptor.ACTIVE;
-
 import com.school.sdm.dto.Admin;
 import com.school.sdm.util.AppConstance;
 import com.school.sdm.util.ConnectionUtil;

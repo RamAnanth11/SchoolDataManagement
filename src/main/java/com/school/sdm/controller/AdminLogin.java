@@ -12,7 +12,6 @@ import javax.servlet.http.HttpSession;
 
 import com.school.sdm.dto.Admin;
 import com.school.sdm.repository.AdminDAO;
-import com.school.sdm.repository.AdminDAOImp;
 import com.school.sdm.util.AppConstance;
 
 @WebServlet("/adminlogin")
